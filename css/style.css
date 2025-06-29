@@ -29,3 +29,11 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
+@media (max-width: 768px) {
+  nav a {
+    display: block;
+    margin: 10px 0;
+  }
+}
+
